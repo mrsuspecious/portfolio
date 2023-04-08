@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f6f4795a.css",
+    "main.js": "/portfolio/static/js/main.583577cd.js",
+    "static/media/temperature.png": "/portfolio/static/media/temperature.d3fbf67c207dbb3e7c38.png",
+    "static/media/heroImage.png": "/portfolio/static/media/heroImage.fa7898411b973f8f5203.png",
+    "static/media/mysql2.png": "/portfolio/static/media/mysql2.c34f79fc75f0cfe4eca9.png",
+    "static/media/coreblog.png": "/portfolio/static/media/coreblog.8f8ba0908837947b2203.png",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/java.png": "/portfolio/static/media/java.d57071a7dd25273f0141.png",
+    "static/media/emart.png": "/portfolio/static/media/emart.33c1df7b917827a2cc5a.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.f6f4795a.css.map": "/portfolio/static/css/main.f6f4795a.css.map",
+    "main.583577cd.js.map": "/portfolio/static/js/main.583577cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6f4795a.css",
+    "static/js/main.583577cd.js"
+  ]
+}
